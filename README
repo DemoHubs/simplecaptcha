@@ -1,3 +1,6 @@
+比较好用的验证码库 支持 声音验证码
+克隆 https://sourceforge.net/p/simplecaptcha/code/ci/master/tree/
+
 SimpleCaptcha - A Java library for creating CAPTCHAs for J2EE applications,
 including Spring MVC, Struts, and Grails.
 
